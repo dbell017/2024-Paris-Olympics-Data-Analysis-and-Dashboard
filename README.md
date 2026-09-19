@@ -29,4 +29,4 @@ Python, pandas, numpy, matplotlib, seaborn, scipy, Tableau
 
 ## Dashboard
 
-[![View Dashboard](https://img.shields.io/badge/Tableau-View%20Dashboard-blue?logo=tableau)](https://public.tableau.com/views/2024ParisOlympicsDashboard_17897907200160/ParisOlympic2024DataDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/2024ParisOlympicsDashboard_17897907200160/ParisOlympic2024DataDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
