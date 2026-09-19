@@ -29,4 +29,6 @@ Python, pandas, numpy, matplotlib, seaborn, scipy, Tableau
 
 ## Dashboard
 
-Click here to view a interactive dashboard: https://public.tableau.com/views/2024ParisOlympicsDashboard_17897907200160/ParisOlympic2024DataDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[![Dashboard Preview]("C:\Users\djbel\OneDrive\Pictures\Paris Olympics Screenshot.png")](https://public.tableau.com/views/2024ParisOlympicsDashboard_17897907200160/ParisOlympic2024DataDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+*Click the image above to explore the live, interactive version on Tableau Public.*
